@@ -1,0 +1,7 @@
+node_modules
+embedding_env/
+.env
+__pycache__/
+.env.local
+.env.development
+.env.production

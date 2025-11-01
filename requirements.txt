@@ -1,0 +1,8 @@
+sentence-transformers
+numpy
+scikit-learn
+pandas
+matplotlib
+seaborn
+fastapi
+uvicorn
