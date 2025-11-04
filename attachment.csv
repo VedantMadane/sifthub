@@ -1,0 +1,6 @@
+question,precision,recall,f1,mrr,ndcg,map
+What is mobile security?,0.75,0.7,0.72,0.78,0.76,0.74
+What is Zero Trust Architecture?,0.68,0.65,0.66,0.71,0.69,0.67
+How does SIEM integrate with SOAR?,0.72,0.69,0.7,0.75,0.73,0.71
+What is information barrier?,0.74,0.68,0.71,0.76,0.74,0.72
+What is AI Ethics?,0.7,0.67,0.68,0.72,0.7,0.69
